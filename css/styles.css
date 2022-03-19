@@ -4,6 +4,7 @@ body{
 }
 img{
   border-radius: 50%;
+   height: 175px;
 }
 hr{
   border-style: none;
